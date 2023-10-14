@@ -49,10 +49,10 @@
 python3.10 main.py -q <query> -n <number> -d <directory>
 ```
 
-## License
+## 📄 License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-## Show your support ❤️
+## ❤️ Show your support
 
 Please ⭐️ this repository if this project helped you!
