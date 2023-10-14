@@ -1,0 +1,1 @@
+from ImgScraper.implementation import ScrapeImages
