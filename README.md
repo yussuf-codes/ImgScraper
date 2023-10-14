@@ -28,7 +28,7 @@
 3. Create a virtual environment
 
     ```bash
-    python3 -m venv .venv
+    python3.10 -m venv .venv
     ```
 
 4. Activate the virtual environment
@@ -46,7 +46,7 @@
 ## 🚀 Run
 
 ```bash
-python3 main.py -q <query> -n <number> -d <directory>
+python3.10 main.py -q <query> -n <number> -d <directory>
 ```
 
 ## License
