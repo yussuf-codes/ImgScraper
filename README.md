@@ -45,7 +45,7 @@
 ## 🚀 Run
 
 ```bash
-python3.10 main.py -q <query> -n <number> -d <directory>
+python3.10 main.py -q {query} -n {number} -d {directory}
 ```
 
 ## 📄 License
