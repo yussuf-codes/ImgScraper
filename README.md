@@ -7,7 +7,7 @@
 
 ## ⚠️ Prerequisites
 
-* Python 3.10.x `sudo apt install python3.10 && sudo apt install python3.10-venv`
+* [Python 3.10.x](https://www.python.org/downloads/release/python-31011/) `sudo apt install python3.10 && sudo apt install python3.10-venv`
 * [Chrome 115 or newer](https://www.google.com/chrome/)
 
 ## ⚙️ Installation
