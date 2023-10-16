@@ -7,8 +7,8 @@
 
 ## ⚠️ Prerequisites
 
-* Python 3.10 `sudo apt install python3.10`
-* Python 3.10 venv `sudo apt install python3.10-venv`
+* Python 3.10.x `sudo apt install python3.10`
+* Python 3.10.x venv `sudo apt install python3.10-venv`
 * Chrome 115 or newer
 
 ## ⚙️ Installation
