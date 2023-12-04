@@ -21,7 +21,7 @@
 2. Navigate to the project folder
 
     ```bash
-    cd ImgScraper/src
+    cd ./ImgScraper/src/
     ```
 
 3. Create a virtual environment
@@ -33,13 +33,13 @@
 4. Activate the virtual environment
 
     ```bash
-    source .venv/bin/activate
+    source ./.venv/bin/activate
     ```
 
 5. Install the requirements
 
     ```bash
-    pip install -r ImgScraper/requirements.txt
+    pip install -r ./ImgScraper/requirements.txt
     ```
 
 ## 🚀 Run
